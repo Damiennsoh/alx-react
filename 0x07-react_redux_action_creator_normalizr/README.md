@@ -1,4 +1,4 @@
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+Working on react with the following tasks
 
 Normalizr’s purpose and how to use it
 schemas and normalization of nested JSON
